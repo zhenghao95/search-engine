@@ -1,9 +1,9 @@
-input_path_fasta=C:\Users\zgwng\Desktop\data\data.fasta
+input_path_fasta=C:\Users\zgwng\Desktop\data\std8.FASTA
 output_dir_result=C:\Users\zgwng\Desktop\result\
 enzyme_type=0                   
-enzyme_terminal=C              
+enzyme_terminal=N             
 enzyme_aa=KR            
-max_miss_site=2                                    
+max_miss_site=3                                  
 min_pep_length=6                                                  
 max_pep_length=100                                                   
 min_mass=600                                       
